@@ -1,0 +1,20 @@
+/* Change la couleur de ton titre principal en rouge ou bleu */
+body {
+    background-color: hsl(52, 98%, 76%);
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Titre */
+header h1 {
+    color: rgb(247, 241, 241);
+    font-family:ubuntu;
+    font-size: 36px;
+}
